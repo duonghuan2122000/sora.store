@@ -1,0 +1,48 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "SoraStoreWarehouseContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Warehouse",
+   "ProjectRootNamespace": "Sora.Store",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "category",
+         "ObjectType": 0
+      },
+      {
+         "Name": "product",
+         "ObjectType": 0
+      },
+      {
+         "Name": "producttag",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tag",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": ".sora.store.warehouse",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
